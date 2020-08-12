@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### 🤔 I’m looking for help with App Development and Ethical Hacking.
 #### 📫 You can reach me through my email id - raunakraunak077@gmail.com 
 ## 💬 Ask me about myself
-## <p>
-     <a href="">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Raunakkumarr?label=Follow%20me&style=social">
-     </a>
-  </p>
+<p>
+  <a href="https://github.com/Raunakkumarr">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Raunakkumarr?label=Follow%20me&style=social">
+  </a>
+</p>
