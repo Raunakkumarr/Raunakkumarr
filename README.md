@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # This is Raunak Kumar.
-### Hi there 👋 in Plus two.
+### Hi there 👋 I'm in Plus two.
 #####  This is Raunak Mishra, a student of Higher Secondary at St. Xavier's College, Maitighar, Kathmandu, Nepal. I'm very fond of Physics and Computers. I always keeps thinking about new ways to research on various topics in these fields.
 ### 🌱 I’m currently learning in Plus two.
 ### 🔭 I’m currently working on "Automatic Accident Alert System".
