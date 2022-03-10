@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # This is Raunak Kumar.
 ### Hi there 👋 I'm a High School Graduate.
 #####  This is Raunak Mishra, a student of Higher Secondary at St. Xavier's College, Maitighar, Kathmandu, Nepal. I'm very fond of Physics and Computers. I always keeps thinking about new ways to research on various topics in these fields.
-### 🌱 I’m currently learning in Plus two.
+### 🌱 I’ve currently graduated from Plus two.
 ### 🔭 I’m currently working on "Automatic Accident Alert System".
 ### 🤔 I’m looking for help with App Development and Ethical Hacking.
 #### 📫 You can reach me through my email id - raunakraunak077@gmail.com or my portfolio website contact https://www.raunakmishra.com.np/#contact
