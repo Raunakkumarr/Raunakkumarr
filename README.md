@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# This is Raunak Kumar.
-#####  This is Raunak Mishra, a student of undergraduate in Electrical Engineering. I'm very fond of Electronics and Computers. I always keeps thinking about new ways to research on various topics in these fields.
+# This is Raunak.
+#####  I'm Raunak Mishra, a student of undergraduate in Electrical Engineering. I'm very fond of Electronics and Computers. I always keeps thinking about new ways to research on various topics in these fields.
 ### 🌱 I'm a first sem undergraduate in electrical engineering student at IOE-Pulchowk Campus, Tribhuvan University.
 ### 🔭 I’m currently working on "Automatic Accident Alert System".
 ### 🤔 I’m looking for help with App Development and Ethical Hacking.
